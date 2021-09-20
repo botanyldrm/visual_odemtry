@@ -1,0 +1,26 @@
+Rotation matrix of camera in the second image w.r.t camera in the first image: 
+[[ 9.99999961e-01 -2.53929856e-04  1.14401597e-04]
+ [ 2.53989931e-04  9.99999830e-01 -5.25422194e-04]
+ [-1.14268158e-04  5.25451231e-04  9.99999855e-01]]
+
+Rotation of the second camera w.r.t the first camera in euler-anlge(zyx order):
+[0.01454911 0.00655473 0.03010448]
+
+Translation vector of camera in the second image w.r.t camera in the first image: 
+[[ 7.77130889e-01]
+ [-5.93228406e-04]
+ [ 6.29338724e-01]]
+
+Rotation matrix of camera in the third image w.r.t camera in the first image: 
+[[ 0.97203106 -0.01531337  0.23435257]
+ [ 0.0124601   0.99982918  0.013651  ]
+ [-0.23452158 -0.01034914  0.97205582]]
+
+Rotation of the third camera w.r.t the first camera in euler-anlge(zyx order):
+[ 0.90256257 13.55346186 -0.8045767 ]
+
+Translation vector of camera in the third image w.r.t camera in the first image: 
+[[ 0.4365531 ]
+ [-0.05590552]
+ [ 0.89793985]]
+
